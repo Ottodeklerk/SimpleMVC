@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: ottodeklerk
- * Date: 10-02-17
- * Time: 10:27
- */
 
 namespace mvcsystem\baseclasses;
 
